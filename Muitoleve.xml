@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="EU AMOR PALITO S2" tvg-logo="http://i.ibb.co/SNTCRw8/globo.png" group-title="EU AMOR PALITO S2",EU AMOR PALITO S2
+http://supertv.red:80/josemariatv/superflix22/124897.ts
+
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP 4K" tvg-logo="http://i.ibb.co/SNTCRw8/globo.png" group-title="Canais | 4K",Globo SP 4K
 http://supertv.red:80/josemariatv/superflix22/124897.ts
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP 4k²" tvg-logo="http://i.ibb.co/SNTCRw8/globo.png" group-title="Canais | 4K",Globo SP 4k²

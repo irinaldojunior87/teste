@@ -8,5 +8,8 @@ https://raw.githubusercontent.com/irinaldojunior87/teste/main/CanaisTelegram.xml
 https://raw.githubusercontent.com/irinaldojunior87/teste/main/teste.m3u
 #EXTINF:-1 tvg-logo="http://examples.com/logos/films/10.png" type="playlist" description="test", test01
 https://raw.githubusercontent.com/irinaldojunior87/teste/main/Muitoleve.xml
+#EXTINF:0 type="playlist" tvg-logo="https://tvacabodigital.files.wordpress.com/2014/07/0618b-television_icon-265115133_std.png",Canais de TV leve
+#EXTBG: #000000
+https://raw.githubusercontent.com/irinaldojunior87/teste/main/Muitoleve.xml
 
 

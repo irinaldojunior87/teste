@@ -1,15 +1,6 @@
 #EXTM3U size="Medium"
 
-#EXTINF:-1 tvg-id="Lista Leve1" tvg-name="Lista Leve" tvg-logo="https://agroemdia.com.br/wp-content/uploads/2020/06/agromais-band-logo.jpg" type="playlist" group-title="LISTA",Lista Leve
-https://raw.githubusercontent.com/irinaldojunior87/teste/main/Muitoleve.xml
-#EXTINF:-1 tvg-id="Canais Telegram1" tvg-name="Canais Telegram" tvg-logo="http://xplussport.com:8080/images/b84296644f07e05523cd844bc88db5fe.png" type="playlist" group-title="LISTA",Canais Telegram
-https://raw.githubusercontent.com/irinaldojunior87/teste/main/CanaisTelegram.xml
-#EXTINF:-1 tvg-id="Lista Junior1" tvg-name="Lista Junior" tvg-logo="https://agroemdia.com.br/wp-content/uploads/2020/06/agromais-band-logo.jpg" type="playlist" group-title="LISTA",Lista Junior
-https://raw.githubusercontent.com/irinaldojunior87/teste/main/teste.m3u
-#EXTINF:-1 tvg-logo="http://examples.com/logos/films/10.png" type="playlist" description="test", test01
-https://raw.githubusercontent.com/irinaldojunior87/teste/main/Muitoleve.xml
 #EXTINF:0 type="playlist" tvg-logo="https://tvacabodigital.files.wordpress.com/2014/07/0618b-television_icon-265115133_std.png",Canais de TV leve
-#EXTBG: #000000
 https://raw.githubusercontent.com/irinaldojunior87/teste/main/Muitoleve.xml
 
 

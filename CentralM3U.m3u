@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Lista Leve1" tvg-name="Lista Leve" tvg-logo="https://agroemdia.com.br/wp-content/uploads/2020/06/agromais-band-logo.jpg" group-title="LISTA",Lista Leve
+https://raw.githubusercontent.com/irinaldojunior87/teste/main/Muitoleve.xml
+#EXTINF:-1 tvg-id="Canais Telegram1" tvg-name="Canais Telegram" tvg-logo="http://xplussport.com:8080/images/b84296644f07e05523cd844bc88db5fe.png" group-title="LISTA",Canais Telegram
+https://raw.githubusercontent.com/irinaldojunior87/teste/main/CanaisTelegram.xml
+#EXTINF:-1 tvg-id="Lista Junior1" tvg-name="Lista Junior" tvg-logo="https://agroemdia.com.br/wp-content/uploads/2020/06/agromais-band-logo.jpg" group-title="LISTA",Lista Junior
+https://raw.githubusercontent.com/irinaldojunior87/teste/main/teste.m3u
+
+

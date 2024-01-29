@@ -1,6 +1,13 @@
-#EXTM3U size="Medium"
+#EXTM3U 
 
+#PLAYLIST:Playlist1
 #EXTINF:-1 type="playlist" , leve
+#EXTSIZE: Medium
+https://raw.githubusercontent.com/irinaldojunior87/teste/main/teste.m3u
+
+#PLAYLIST:Playlist2
+#EXTINF:-1 type="playlist" , leve
+#EXTSIZE: Medium
 https://raw.githubusercontent.com/irinaldojunior87/teste/main/teste.m3u
 
 

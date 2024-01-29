@@ -1,7 +1,7 @@
 #EXTM3U 
 
 #PLAYLIST:Playlist
-#EXTINF: 0 type="playlist" , Lista leve
+#EXTINF:-1 type="playlist" , Lista leve
 https://raw.githubusercontent.com/irinaldojunior87/teste/main/Muitoleve.m3u
 
 #EXTINF:-1 type="playlist" , Lista junior

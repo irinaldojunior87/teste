@@ -4,7 +4,7 @@
 #EXTINF:-1 type="playlist" tvg-logo="https://acaert.com.br/storage/files/editor/63dbad257ae3c.jpg" , Lista leve
 https://raw.githubusercontent.com/irinaldojunior87/teste/main/Muitoleve.m3u
 
-#EXTINF:-1 type="playlist" tvg-logo="https://efeitofuria.files.wordpress.com/2013/06/tv.png?w=584" , Lista junior
+#EXTINF:-1 type="playlist" tvg-logo="https://efeitofuria.files.wordpress.com/2013/06/tv.png" , Lista junior
 #EXTSIZE: big
 https://raw.githubusercontent.com/irinaldojunior87/teste/main/teste.m3u
 

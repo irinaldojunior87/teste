@@ -6,7 +6,7 @@
 #EXTSIZE: big
 https://raw.githubusercontent.com/irinaldojunior87/teste/main/teste.m3u
 
-#EXTINF:-1 , telegram
+#EXTINF:-1 type="playlist" , telegram
 #EXTGRP:telegram
 #EXTSIZE: big
 https://bit.ly/MUitoLeve

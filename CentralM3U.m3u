@@ -1,14 +1,15 @@
 #EXTM3U 
 
 #PLAYLIST:Playlist
-#EXTINF:-1 , junior
-#EXTGRP:junior
+#EXTINF: 0 type="playlist" , Lista leve
+https://raw.githubusercontent.com/irinaldojunior87/teste/main/Muitoleve.m3u
+
+#EXTINF:-1 type="playlist" , Lista junior
 #EXTSIZE: big
 https://raw.githubusercontent.com/irinaldojunior87/teste/main/teste.m3u
 
-#EXTINF:-1 type="playlist" , telegram
-#EXTGRP:telegram
+#EXTINF:-1 type="playlist" , Canais Telegram
 #EXTSIZE: big
-https://bit.ly/MUitoLeve
+https://raw.githubusercontent.com/irinaldojunior87/teste/main/CanaisTelegram.m3u
 
 

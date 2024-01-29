@@ -2,11 +2,12 @@
 
 #PLAYLIST:Playlist1
 #EXTINF:-1 type="playlist" , leve
+#EXTGRP:Group1
 #EXTSIZE: Medium
 https://raw.githubusercontent.com/irinaldojunior87/teste/main/teste.m3u
 
-#PLAYLIST:Playlist2
 #EXTINF:-1 type="playlist" , leve
+#EXTGRP:Group2
 #EXTSIZE: Medium
 https://raw.githubusercontent.com/irinaldojunior87/teste/main/teste.m3u
 

@@ -5,6 +5,8 @@ https://www.google.com/search?q=%23EXTINF%3A-1+type%3D%22playlist%22&rlz=1C1GCEA
 
 https://ss-iptv.com/en/operators/videoteka
 
+https://en.f-player.ru/extm3u-iptv-format
+
 
 
 #EXTINF:-1 type="playlist" , leve

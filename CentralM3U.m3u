@@ -1,14 +1,14 @@
 #EXTM3U 
 
-#PLAYLIST:Playlist1
-#EXTINF:-1 type="playlist" , leve
-#EXTGRP:Group1
-#EXTSIZE: Medium
+#PLAYLIST:Playlist
+#EXTINF:-1 , junior
+#EXTGRP:junior
+#EXTSIZE: big
 https://raw.githubusercontent.com/irinaldojunior87/teste/main/teste.m3u
 
-#EXTINF:-1 type="playlist" , leve2
-#EXTGRP:Group2
-#EXTSIZE: Medium
-https://raw.githubusercontent.com/irinaldojunior87/teste/main/teste.m3u
+#EXTINF:-1 , telegram
+#EXTGRP:telegram
+#EXTSIZE: big
+https://raw.githubusercontent.com/irinaldojunior87/teste/main/CanaisTelegram.xml
 
 

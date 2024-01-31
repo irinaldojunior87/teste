@@ -2,16 +2,32 @@
 
 #PLAYLIST:Playlist
 
-#EXTINF:-1 type="playlist" tvg-logo="https://acaert.com.br/storage/files/editor/63dbad257ae3c.jpg" , Lista leve
+#EXTINF:-1 type="playlist" tvg-logo="https://acaert.com.br/storage/files/editor/63dbad257ae3c.jpg" group-title="TV" , Lista leve
 #EXTSIZE: big
 https://raw.githubusercontent.com/irinaldojunior87/teste/main/Muitoleve.m3u
 
-#EXTINF:-1 type="playlist" tvg-logo="https://efeitofuria.files.wordpress.com/2013/06/tv.png" , Lista junior
+#EXTINF:-1 type="playlist" tvg-logo="https://efeitofuria.files.wordpress.com/2013/06/tv.png" group-title="TV" , Lista junior
 #EXTSIZE: big
 https://raw.githubusercontent.com/irinaldojunior87/teste/main/teste.m3u
 
-#EXTINF:-1 type="playlist" tvg-logo="https://w7.pngwing.com/pngs/545/245/png-transparent-television-domain-name-com-tv-television-angle-text.png" , Canais Telegram
+#EXTINF:-1 type="playlist" tvg-logo="https://w7.pngwing.com/pngs/545/245/png-transparent-television-domain-name-com-tv-television-angle-text.png" group-title="TV" , Canais Telegram
 #EXTSIZE: big
 https://raw.githubusercontent.com/irinaldojunior87/teste/main/CanaisTelegram.m3u
+
+#EXTINF:-1 type="playlist" tvg-logo="https://img.freepik.com/vetores-gratis/composicao-transparente-realista-de-producao-de-filme-de-cinema-com-imagem-isolada-de-badalo-com-ilustracao-vetorial-de-campos-vazios_1284-66163.jpg" group-title="Filme" , Filme1
+#EXTSIZE: big
+https://raw.githubusercontent.com/irinaldojunior87/teste/main/filme1.m3u
+
+#EXTINF:-1 type="playlist" tvg-logo="https://img.freepik.com/vetores-premium/poster-de-cinema-realista-pipoca-balde-fita-de-filme-de-claquete-e-bobina-pipoca-voando-em-movimento_208581-1714.jpg" group-title="Filme" , Filme2
+#EXTSIZE: big
+https://raw.githubusercontent.com/irinaldojunior87/teste/main/filme2.m3u
+
+#EXTINF:-1 type="playlist" tvg-logo="https://s2-techtudo.glbimg.com/VoxHCIaOwNTMyu1BHMwYrpMrKR0=/0x0:620x480/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/f/5/mX8KwdQOaqZhB04XTYcw/2013-06-13-resultadofinal2.jpg" group-title="Serie" , Serie1
+#EXTSIZE: big
+https://raw.githubusercontent.com/irinaldojunior87/teste/main/serie1.m3u
+
+#EXTINF:-1 type="playlist" tvg-logo="https://st.depositphotos.com/1653909/1228/i/450/depositphotos_12283193-stock-photo-movie-clapper-and-film-reels.jpg" group-title="Serie" , Serie2
+#EXTSIZE: big
+https://raw.githubusercontent.com/irinaldojunior87/teste/main/serie2.m3u
 
 

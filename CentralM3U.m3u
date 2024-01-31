@@ -14,6 +14,14 @@ https://raw.githubusercontent.com/irinaldojunior87/teste/main/teste.m3u
 #EXTSIZE: big
 https://raw.githubusercontent.com/irinaldojunior87/teste/main/CanaisTelegram.m3u
 
+#EXTINF:-1 type="playlist" tvg-logo="https://pbs.twimg.com/profile_images/745412389227667460/N_TdBBOh_400x400.jpg" group-title="TV" , FormigaTV
+#EXTSIZE: big
+http://tinyurl.com/NovaFORMIGAtv
+
+#EXTINF:-1 type="playlist" tvg-logo="https://store-images.s-microsoft.com/image/apps.43087.14136317613015826.48c8959e-6805-4af7-82a9-0a36e8a28dc3.27953d19-18db-4dd6-ba0c-4acaf79a5613" group-title="TV" , Pluto TV
+#EXTSIZE: big
+http://bit.ly/Listajuniorpluto
+
 #EXTINF:-1 type="playlist" tvg-logo="https://img.freepik.com/vetores-gratis/composicao-transparente-realista-de-producao-de-filme-de-cinema-com-imagem-isolada-de-badalo-com-ilustracao-vetorial-de-campos-vazios_1284-66163.jpg" group-title="Filme" , Filme1
 #EXTSIZE: big
 https://raw.githubusercontent.com/irinaldojunior87/teste/main/filme1.m3u
